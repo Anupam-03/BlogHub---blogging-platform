@@ -1,0 +1,10 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 4.2rem;
+}
